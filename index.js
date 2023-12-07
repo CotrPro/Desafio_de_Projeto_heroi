@@ -1,0 +1,1 @@
+console.log ('Olá, eu vou começar a programar e mudar tudo o que eu consigo atualmente fazer.')
